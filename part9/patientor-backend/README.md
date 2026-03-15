@@ -2,8 +2,6 @@
 
 For this set of exercises we will be developing a backend for an existing project called Patientor which is a simple medical record application for doctors who handle diagnoses and basic health information of their patients.
 
-The frontend  has already been built by outsider experts and our task is to create a backend to support the existing code.
-
 ## Start the application locally
 
 To start an application:
