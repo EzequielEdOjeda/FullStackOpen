@@ -1,4 +1,4 @@
-## usage
+## Usage
 
 Run fronend in development mode with _npm seerver_
 
